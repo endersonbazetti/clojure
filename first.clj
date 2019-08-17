@@ -13,4 +13,3 @@
 (defn fourth-function
 	[x y]
 	(/ x y))
-
