@@ -13,3 +13,7 @@
 (defn fourth-function
 	[x y]
 	(/ x y))
+
+(defn fifth-function
+        [x y z]
+        (+ x (+ y z)))
